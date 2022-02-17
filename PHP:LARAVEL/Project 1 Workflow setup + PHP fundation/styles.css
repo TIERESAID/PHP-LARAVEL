@@ -1,0 +1,32 @@
+h1{
+    margin-bottom: 60px;
+}
+
+._container {
+    position: fixed;
+    border: 2px solid black;
+    border-radius: 50px 20px;
+    width: 800px;
+    text-align: center;
+    top: 10%;
+    left: 15%;
+    background-color: #d5d7d5;
+}
+
+.result{
+    font-size: 20px;
+}
+
+form{
+    margin-bottom: 30px;
+}
+/* 
+.color{
+    background-color: aquamarine;
+
+} */
+
+.result_palindrome{
+    font-size: 20px;
+    display: inline;
+}
